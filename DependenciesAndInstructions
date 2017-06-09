@@ -1,0 +1,19 @@
+To run the code
+
+1. First install all the dependencies and modules.
+	
+	The modules are : 
+
+	1.numpy
+	2.sklearn
+	3.tflearn
+	4.os
+	5.pickle
+	6.sys
+	7.nltk
+	8.random
+
+2. Then Execute prep_data.py to create pickle file.
+
+3. Finally, run review_lstm.py .
+	
